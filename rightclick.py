@@ -3,7 +3,7 @@
 # rightclick.py
 # Automatically acquire whole NFT collections from OpenSea.
 #
-# k0rnh0li0 2021
+# 
 
 import os
 import sys
